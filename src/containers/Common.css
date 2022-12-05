@@ -1,0 +1,18 @@
+.screen-container {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  height: auto;
+  max-width: 500px;
+  width: 100%;
+  border: 1px solid;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.container h2 {
+  font-size: 40px;
+  text-align: center;
+}
